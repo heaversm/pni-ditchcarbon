@@ -1,0 +1,1493 @@
+[
+  {
+    "name": "Amazon Echo Dot",
+    "manufacturer": "Amazon",
+    "price": 49,
+    "carbon_footprint": 4.94466,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Amazon Echo Studio",
+    "manufacturer": "Amazon",
+    "price": 199,
+    "carbon_footprint": 20.08242,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Amazon Halo Rise",
+    "manufacturer": "Amazon",
+    "price": 139,
+    "carbon_footprint": 14.02756,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Google Nest Mini",
+    "manufacturer": "Google",
+    "price": 49,
+    "carbon_footprint": 26.336,
+    "methodology": "product"
+  },
+  {
+    "name": "Google Nest Audio",
+    "manufacturer": "Google",
+    "price": 99,
+    "carbon_footprint": 55.07,
+    "methodology": "product"
+  },
+  {
+    "name": "Apple Homepod Mini",
+    "manufacturer": "Apple",
+    "price": 99,
+    "carbon_footprint": 31.13117032,
+    "methodology": "product"
+  },
+  {
+    "name": " Sonos Smart Speakers",
+    "manufacturer": "Sonos",
+    "price": 179,
+    "carbon_footprint": 46.19784,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Sonos SL Speakers",
+    "manufacturer": "Sonos",
+    "price": 199,
+    "carbon_footprint": 51.35832,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Bose Home Speaker",
+    "manufacturer": "Bose",
+    "price": 379,
+    "carbon_footprint": 142.02003,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Amazon Echo Show Family",
+    "manufacturer": "Amazon",
+    "price": 280,
+    "carbon_footprint": 28.25764,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Google Nest Hub",
+    "manufacturer": "Google",
+    "price": 100,
+    "carbon_footprint": 102.26,
+    "methodology": "product"
+  },
+  {
+    "name": "Google Nest Hub Max",
+    "manufacturer": "Google",
+    "price": 229,
+    "carbon_footprint": 102.26,
+    "methodology": "product"
+  },
+  {
+    "name": "Meta Portal",
+    "manufacturer": "Meta",
+    "price": 49,
+    "carbon_footprint": 4.41777,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Lenovo Smart Display",
+    "manufacturer": "Lenovo",
+    "price": 100,
+    "carbon_footprint": 32.01264,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Lenovo Smart Clock with Alexa",
+    "manufacturer": "Lenovo",
+    "price": 100,
+    "carbon_footprint": 100.45051,
+    "methodology": "product"
+  },
+  {
+    "name": "Amazon Ring Security Cams",
+    "manufacturer": "Amazon",
+    "price": 100,
+    "carbon_footprint": 10.09184,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Amazon Ring Always Home Cam",
+    "manufacturer": "Amazon",
+    "price": 200,
+    "carbon_footprint": 20.18368,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Amazon Astro Robot",
+    "manufacturer": "Amazon",
+    "price": 1000,
+    "carbon_footprint": 100.91962,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Blink Security Cameras",
+    "manufacturer": "Blink",
+    "price": 50,
+    "carbon_footprint": 42.10448,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Google Nest Cams",
+    "manufacturer": "Google",
+    "price": 180,
+    "carbon_footprint": 55.07,
+    "methodology": "product"
+  },
+  {
+    "name": "Arlo Security Cams",
+    "manufacturer": "Arlo",
+    "price": 299,
+    "carbon_footprint": 77.17008,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Eufy Security Cams",
+    "manufacturer": "Anker Innovations Technology",
+    "price": 309,
+    "carbon_footprint": 115.79133,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Simplisafe Security Cams",
+    "manufacturer": "Simplisafe",
+    "price": 99,
+    "carbon_footprint": 31.69143,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Wyze Cams",
+    "manufacturer": "Wyze Labs",
+    "price": 30,
+    "carbon_footprint": 9.60534,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Netatmo Smart Indoor Camera",
+    "manufacturer": "Netatmo",
+    "price": 200,
+    "carbon_footprint": 51.61728,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Logitech Circle View",
+    "manufacturer": "Logitech",
+    "price": 160,
+    "carbon_footprint": 51.21945,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Amazon Ring Video Doorbell",
+    "manufacturer": "Amazon",
+    "price": 65,
+    "carbon_footprint": 6.55994,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Blink Video Doorbell",
+    "manufacturer": "Blink",
+    "price": 50,
+    "carbon_footprint": 42.10448,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Google Nest Video Doorbells",
+    "manufacturer": "Google",
+    "price": 180,
+    "carbon_footprint": 7.938,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Arlo Video Doorbells",
+    "manufacturer": "Arlo",
+    "price": 150,
+    "carbon_footprint": 38.71296,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Eufy Video Doorbell",
+    "manufacturer": "Anker Innovations Technology",
+    "price": 200,
+    "carbon_footprint": 74.94432,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Wyze Video Doorbell",
+    "manufacturer": "Wyze Labs",
+    "price": 44,
+    "carbon_footprint": 14.0868,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Simplisafe Video Doorbell Pro",
+    "manufacturer": "Simplisafe",
+    "price": 170,
+    "carbon_footprint": 54.42381,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Netatmo Smart Video Doorbell",
+    "manufacturer": "Netatmo",
+    "price": 300,
+    "carbon_footprint": 77.42592,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Logitech Circle Video Doorbell",
+    "manufacturer": "Logitech",
+    "price": 100,
+    "carbon_footprint": 32.01264,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Ezviz Video Doorbell ",
+    "manufacturer": "EzViz",
+    "price": 40,
+    "carbon_footprint": 3.60681,
+    "methodology": "supplier"
+  },
+  {
+    "name": "August Smart Locks",
+    "manufacturer": "August",
+    "price": 200,
+    "carbon_footprint": 51.61728,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Eufy Smart Lock Touch",
+    "manufacturer": "Anker Innovations Technology",
+    "price": 170,
+    "carbon_footprint": 63.70539,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Eufy Smart Lock Touch & Wi-Fi",
+    "manufacturer": "Anker Innovations Technology",
+    "price": 260,
+    "carbon_footprint": 97.42671,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Eufy Video Smart Lock",
+    "manufacturer": "Anker Innovations Technology",
+    "price": 300,
+    "carbon_footprint": 112.41648,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Nest X Yale Lock",
+    "manufacturer": "Google",
+    "price": 250,
+    "carbon_footprint": 55.07,
+    "methodology": "product"
+  },
+  {
+    "name": "Schlage Smart Locks",
+    "manufacturer": "Schlage",
+    "price": 403,
+    "carbon_footprint": 151.01661,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Wyze Lock",
+    "manufacturer": "Wyze",
+    "price": 124,
+    "carbon_footprint": 32.00184,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Kwikset Halo Touch WiFi Smart Lock",
+    "manufacturer": "Kwikset",
+    "price": 170,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Kwikset Aura Bluetooth Smart Lock",
+    "manufacturer": "Kwikset",
+    "price": 149,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "MyQ Garage",
+    "manufacturer": "Chamberlain Group",
+    "price": 420,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Ecobee Smart Thermostat Premium",
+    "manufacturer": "Ecobee",
+    "price": 250,
+    "carbon_footprint": 34.7424,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Ecobee SmartThermostat Enhanced",
+    "manufacturer": "Ecobee",
+    "price": 190,
+    "carbon_footprint": 26.40456,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Ecobee3 Lite",
+    "manufacturer": "Ecobee",
+    "price": 150,
+    "carbon_footprint": 20.84544,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Google Nest Learning Thermostat ",
+    "manufacturer": "Google",
+    "price": 200,
+    "carbon_footprint": 28.07,
+    "methodology": "product"
+  },
+  {
+    "name": "Amazon Smart Thermostat",
+    "manufacturer": "Amazon",
+    "price": 80,
+    "carbon_footprint": 8.07396,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Netatmo Smart Thermostat",
+    "manufacturer": "Netatmo",
+    "price": 170,
+    "carbon_footprint": 43.87656,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Honeywell WiFi Smart Thermostats",
+    "manufacturer": "Honeywell",
+    "price": 100,
+    "carbon_footprint": 25.80864,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Google Nest Protect",
+    "manufacturer": "Google",
+    "price": 120,
+    "carbon_footprint": 16.07,
+    "methodology": "product"
+  },
+  {
+    "name": "U by Moen Smart Shower",
+    "manufacturer": "Moen",
+    "price": 372,
+    "carbon_footprint": 242.48336,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Moen Smart Faucet",
+    "manufacturer": "Moen",
+    "price": 947,
+    "carbon_footprint": 617.29556,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Kohler Smart Toilet",
+    "manufacturer": "Kohler",
+    "price": 8625,
+    "carbon_footprint": 2497.1415,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Kohler Stillness Smart Bathtub",
+    "manufacturer": "Kohler",
+    "price": 16000,
+    "carbon_footprint": 4632.383,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Kohler DTV Smart Showering System",
+    "manufacturer": "Kohler",
+    "price": 383,
+    "carbon_footprint": 110.887,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Philips Hue",
+    "manufacturer": "Philps",
+    "price": 35,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Wyze Smart Bulb",
+    "manufacturer": "Wyze Labs",
+    "price": 23,
+    "carbon_footprint": 7.36461,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Ring Smart Lighting",
+    "manufacturer": "Ring LLC",
+    "price": 30,
+    "carbon_footprint": 19.55816,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Wemo Thread Smart Plug",
+    "manufacturer": "Belkin",
+    "price": 30,
+    "carbon_footprint": 9.60534,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Ring Outdoor Smart Plug",
+    "manufacturer": "Ring LLC",
+    "price": 30,
+    "carbon_footprint": 19.55816,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Amazon Smart Plug",
+    "manufacturer": "Amazon",
+    "price": 25,
+    "carbon_footprint": 2.52296,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Wyze Plug",
+    "manufacturer": "Wyze Labs",
+    "price": 14,
+    "carbon_footprint": 4.48146,
+    "methodology": "supplier"
+  },
+  {
+    "name": "iRobot Roombas",
+    "manufacturer": "iRobot",
+    "price": 1000,
+    "carbon_footprint": 258.08952,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Eufy RoboVacs",
+    "manufacturer": "Anker Innovations Technology",
+    "price": 550,
+    "carbon_footprint": 206.10141,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Ecovacs Deebot",
+    "manufacturer": "Ecovacs",
+    "price": 1550,
+    "carbon_footprint": 400.04016,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Wyze Robot Vacuum",
+    "manufacturer": "Wyze",
+    "price": 315,
+    "carbon_footprint": 81.29784,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Dyson 360 Heurist",
+    "manufacturer": "Dyson",
+    "price": 1100,
+    "carbon_footprint": 926.30874,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Shark Robot Vacuums",
+    "manufacturer": "Shark",
+    "price": 700,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "BISSELL's Robot Vacuum",
+    "manufacturer": "BISSELL",
+    "price": 600,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Roborock Robot Vacuums",
+    "manufacturer": "Roborock",
+    "price": 1400,
+    "carbon_footprint": 361.3272,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Neato Robot Vacuums",
+    "manufacturer": "Neato Robotics",
+    "price": 600,
+    "carbon_footprint": 154.85496,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Samsung JetBot Robot Vacuums",
+    "manufacturer": "Samsung",
+    "price": 1300,
+    "carbon_footprint": 111.54,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Nintendo Switch",
+    "manufacturer": "Nintendo",
+    "price": 350,
+    "carbon_footprint": 112.04424,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Playstation 5",
+    "manufacturer": "Sony",
+    "price": 599,
+    "carbon_footprint": 135.374,
+    "methodology": "supplier"
+  },
+  {
+    "name": "XBox Series X & S",
+    "manufacturer": "Microsoft",
+    "price": 300,
+    "carbon_footprint": 22.833,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Steam Deck",
+    "manufacturer": "Valve",
+    "price": 510,
+    "carbon_footprint": 332.44144,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Amazon Fire TV with Alexa Voice Remote",
+    "manufacturer": "Amazon",
+    "price": 30,
+    "carbon_footprint": 3.02804,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Amazon Voice Remotes",
+    "manufacturer": "Amazon",
+    "price": 35,
+    "carbon_footprint": 3.53312,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Apple TV 4K",
+    "manufacturer": "Apple",
+    "price": 129,
+    "carbon_footprint": 55.1515808,
+    "methodology": "product"
+  },
+  {
+    "name": "Google Chromecast w/Google TV",
+    "manufacturer": "Google",
+    "price": 30,
+    "carbon_footprint": 25.764,
+    "methodology": "product"
+  },
+  {
+    "name": "Nvidia Shield TV",
+    "manufacturer": "Nvidia",
+    "price": 125,
+    "carbon_footprint": 6.3375,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Roku Streaming Sticks",
+    "manufacturer": "Roku",
+    "price": 35,
+    "carbon_footprint": 0.41847,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Tivo Streaming Devices",
+    "manufacturer": "Tivo",
+    "price": 40,
+    "carbon_footprint": 11.585,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Xfinity Flex",
+    "manufacturer": "Comcast",
+    "price": 45,
+    "carbon_footprint": 0.80055,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Amazon Kindle",
+    "manufacturer": "Amazon",
+    "price": 110,
+    "carbon_footprint": 11.10444,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Kobo eReaders",
+    "manufacturer": "Kobo",
+    "price": 400,
+    "carbon_footprint": 25.81644,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Onyx Boox",
+    "manufacturer": "Onyx International Inc.",
+    "price": 500,
+    "carbon_footprint": 326.01924,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Pocketbook",
+    "manufacturer": "Pocketbook",
+    "price": 267,
+    "carbon_footprint": 68.93016,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Nook",
+    "manufacturer": "Barnes & Noble",
+    "price": 120,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Apple iPad",
+    "manufacturer": "Apple",
+    "price": 449,
+    "carbon_footprint": 133.5237672,
+    "methodology": "product"
+  },
+  {
+    "name": "Amazon Fire HD Tablets",
+    "manufacturer": "Amazon",
+    "price": 99,
+    "carbon_footprint": 9.99424,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Samsung Galaxy Tablets",
+    "manufacturer": "Samsung",
+    "price": 1100,
+    "carbon_footprint": 94.38,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Lenovo Tablets",
+    "manufacturer": "Lenovo",
+    "price": 300,
+    "carbon_footprint": 96.06888,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Huawei MatePad Tablets",
+    "manufacturer": "Huawei",
+    "price": 150,
+    "carbon_footprint": 10.95,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Apple Watch",
+    "manufacturer": "Apple",
+    "price": 380,
+    "carbon_footprint": 31.87887528,
+    "methodology": "product"
+  },
+  {
+    "name": "Fitbit Charge 5",
+    "manufacturer": "Google",
+    "price": 150,
+    "carbon_footprint": 6.615,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Fitbit Luxe",
+    "manufacturer": "Google",
+    "price": 130,
+    "carbon_footprint": 5.733,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Fitbit Inspire 3 (new version)",
+    "manufacturer": "Google",
+    "price": 100,
+    "carbon_footprint": 4.41,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Fitbit Sense 2  (new version)",
+    "manufacturer": "Google",
+    "price": 200,
+    "carbon_footprint": 8.82,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Fitbit Versa 4  (new version)",
+    "manufacturer": "Google",
+    "price": 230,
+    "carbon_footprint": 10.143,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Google Pixel Watch",
+    "manufacturer": "Google",
+    "price": 350,
+    "carbon_footprint": 53.997,
+    "methodology": "product"
+  },
+  {
+    "name": "Garmin Venu",
+    "manufacturer": "Garmin",
+    "price": 300,
+    "carbon_footprint": 54.36456,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Garmin Vivoactive ",
+    "manufacturer": "Garmin",
+    "price": 350,
+    "carbon_footprint": 63.42459,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Garmin Forerunner Series",
+    "manufacturer": "Garmin",
+    "price": 400,
+    "carbon_footprint": 72.48462,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Garmin Instinct Series",
+    "manufacturer": "Garmin",
+    "price": 500,
+    "carbon_footprint": 90.60687,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Garmin Fenix",
+    "manufacturer": "Garmin",
+    "price": 700,
+    "carbon_footprint": 126.84918,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Garmin Epix",
+    "manufacturer": "Garmin",
+    "price": 900,
+    "carbon_footprint": 163.09149,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Wyze Band",
+    "manufacturer": "Wyze",
+    "price": 50,
+    "carbon_footprint": 12.90744,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Oura Ring",
+    "manufacturer": "Oura",
+    "price": 350,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Whoop Strap 4",
+    "manufacturer": "Whoop",
+    "price": 300,
+    "carbon_footprint": 19.36272,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Amazon Halo Band",
+    "manufacturer": "Amazon",
+    "price": 70,
+    "carbon_footprint": 7.06624,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Amazon Halo View",
+    "manufacturer": "Amazon",
+    "price": 80,
+    "carbon_footprint": 8.0764,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Amazfit Fitness Trackers",
+    "manufacturer": "Huami",
+    "price": 40,
+    "carbon_footprint": 12.8097,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Mi Band 6",
+    "manufacturer": "Xiaomi",
+    "price": 300,
+    "carbon_footprint": 0.198,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Samsung Galaxy Watch4",
+    "manufacturer": "Samsung",
+    "price": 360,
+    "carbon_footprint": 30.888,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Huawei Band 6",
+    "manufacturer": "Huawei",
+    "price": 60,
+    "carbon_footprint": 4.38,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Huawei Watch",
+    "manufacturer": "Huawei",
+    "price": 500,
+    "carbon_footprint": 36.5,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Meta Quest 2",
+    "manufacturer": "Meta",
+    "price": 400,
+    "carbon_footprint": 36.07682,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Meta Quest Pro",
+    "manufacturer": "Meta",
+    "price": 1500,
+    "carbon_footprint": 135.28862,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Ray-Ban Facebook Stories",
+    "manufacturer": "Ray-Ban",
+    "price": 300,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Amazon Echo Frames",
+    "manufacturer": "Amazon",
+    "price": 250,
+    "carbon_footprint": 25.23692,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Snap Spectacles 4.0",
+    "manufacturer": "Snap",
+    "price": 380,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Apple Air Pods",
+    "manufacturer": "Apple",
+    "price": 250,
+    "carbon_footprint": 81.17347176,
+    "methodology": "product"
+  },
+  {
+    "name": "Bose 700 Headphones",
+    "manufacturer": "Bose",
+    "price": 380,
+    "carbon_footprint": 142.43679,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Bose QuietComfort Earbuds",
+    "manufacturer": "Bose",
+    "price": 200,
+    "carbon_footprint": 74.96697,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Bose Sport Earbuds",
+    "manufacturer": "Bose",
+    "price": 130,
+    "carbon_footprint": 48.72921,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Sony WF-1000XM4",
+    "manufacturer": "Sony",
+    "price": 180,
+    "carbon_footprint": 40.68,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Sony WH-1000XM4",
+    "manufacturer": "Sony",
+    "price": 350,
+    "carbon_footprint": 79.1,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Amazfit Powerbuds Pro",
+    "manufacturer": "Huami",
+    "price": 200,
+    "carbon_footprint": 64.04463,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Sennheiser Momentum Wireless",
+    "manufacturer": "Sennheiser",
+    "price": 200,
+    "carbon_footprint": 57.9215,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Sennheiser Momentum True Wireless 2",
+    "manufacturer": "Sennheiser",
+    "price": 200,
+    "carbon_footprint": 57.9215,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Jabra Elite Earbuds",
+    "manufacturer": "Jabra",
+    "price": 150,
+    "carbon_footprint": 56.22636,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Jabra Elite 85h Headphones",
+    "manufacturer": "Jabra",
+    "price": 200,
+    "carbon_footprint": 74.96697,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Samsung Galaxy Buds",
+    "manufacturer": "Samsung",
+    "price": 90,
+    "carbon_footprint": 7.722,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Google Pixel Buds ",
+    "manufacturer": "Google",
+    "price": 70,
+    "carbon_footprint": 53.997,
+    "methodology": "product"
+  },
+  {
+    "name": "Amazon Echo Buds",
+    "manufacturer": "Amazon",
+    "price": 120,
+    "carbon_footprint": 12.11338,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Microsoft Surface Headphones 2",
+    "manufacturer": "Microsoft",
+    "price": 250,
+    "carbon_footprint": 19.0275,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Microsoft Surface Earbuds",
+    "manufacturer": "Microsoft",
+    "price": 160,
+    "carbon_footprint": 12.1776,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Huawei FreeBuds Pro",
+    "manufacturer": "Huawei",
+    "price": 240,
+    "carbon_footprint": 17.52,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Apple Airtag",
+    "manufacturer": "Apple",
+    "price": 30,
+    "carbon_footprint": 81.17347176,
+    "methodology": "product"
+  },
+  {
+    "name": "Tile Trackers",
+    "manufacturer": "Tile",
+    "price": 25,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Samsung Galaxy SmartTag",
+    "manufacturer": "Samsung",
+    "price": 30,
+    "carbon_footprint": 2.574,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Chipolo ONE",
+    "manufacturer": "Chipolo",
+    "price": 25,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Orbit Trackers",
+    "manufacturer": "Orbit",
+    "price": 35,
+    "carbon_footprint": 9.03552,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Cube Shadow",
+    "manufacturer": "Cube",
+    "price": 40,
+    "carbon_footprint": 16.9141,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Innway Card",
+    "manufacturer": "Innway",
+    "price": 43,
+    "carbon_footprint": 18.18138,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Nutale Nut3",
+    "manufacturer": "Nutale",
+    "price": 30,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Aventon eBikes",
+    "manufacturer": "Aventon",
+    "price": 2000,
+    "carbon_footprint": 592.45778,
+    "methodology": "supplier"
+  },
+  {
+    "name": "VanMoof eBikes",
+    "manufacturer": "VanMoof",
+    "price": 3500,
+    "carbon_footprint": 903.58008,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Rad Power eBikes",
+    "manufacturer": "Rad Power Bikes Inc",
+    "price": 1700,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Lectric eBikes ",
+    "manufacturer": "Lectric eBikes",
+    "price": 1100,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "GoCycle eBikes",
+    "manufacturer": "Gocycle",
+    "price": 4000,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Woom Up eBikes",
+    "manufacturer": "Woom Bikes USA LLC",
+    "price": 3750,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Peloton Bike",
+    "manufacturer": "Peloton",
+    "price": 2500,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Peloton Tread",
+    "manufacturer": "Peloton",
+    "price": 3500,
+    "carbon_footprint": 903.58008,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Mirror",
+    "manufacturer": "Curiouser Products Inc",
+    "price": 1500,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Echelon Reflect",
+    "manufacturer": "Echelon",
+    "price": 450,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Fiture Interactive Smart Fitness Mirror",
+    "manufacturer": "Fiture Holding LLC",
+    "price": 1500,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "FORME Studio",
+    "manufacturer": "FORME Life",
+    "price": 2500,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "FightCamp",
+    "manufacturer": "Hykso",
+    "price": 440,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "NordicTrack Treadmill",
+    "manufacturer": "Icon",
+    "price": 3000,
+    "carbon_footprint": 362.42602,
+    "methodology": "supplier"
+  },
+  {
+    "name": "NordicTrack Rower",
+    "manufacturer": "Icon",
+    "price": 2000,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Tonal",
+    "manufacturer": "Tonal Systems",
+    "price": 3500,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "SoulCycle At-Home Bike",
+    "manufacturer": "Equinox Group",
+    "price": 2500,
+    "carbon_footprint": 297.88416,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Kinsa Smart Thermometers",
+    "manufacturer": "Kinsa",
+    "price": 40,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Withings Thermo",
+    "manufacturer": "Withings",
+    "price": 100,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Withings Body Smart Scales",
+    "manufacturer": "Withings",
+    "price": 210,
+    "carbon_footprint": 54.21624,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Garmin Index Smart Scale",
+    "manufacturer": "Garmin",
+    "price": 150,
+    "carbon_footprint": 27.18228,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Fitbit Aria Air",
+    "manufacturer": "Fitbit",
+    "price": 50,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Eufy Smart Scales",
+    "manufacturer": "Anker Innovations Technology",
+    "price": 80,
+    "carbon_footprint": 29.9886,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Greater Goods Premium WiFi Smart Scale",
+    "manufacturer": "Greater Goods",
+    "price": 50,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Wyze Scale",
+    "manufacturer": "Wyze",
+    "price": 24,
+    "carbon_footprint": 6.19632,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Amazon Fire HD Kids",
+    "manufacturer": "Amazon",
+    "price": 200,
+    "carbon_footprint": 20.18978,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Amazon Fire HD Kids Pro",
+    "manufacturer": "Amazon",
+    "price": 200,
+    "carbon_footprint": 20.18978,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Amazon Kindle for Kids",
+    "manufacturer": "Amazon",
+    "price": 120,
+    "carbon_footprint": 12.11338,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Fitbit Ace 3",
+    "manufacturer": "Google",
+    "price": 80,
+    "carbon_footprint": 3.528,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Garmin Vivofit Jr 3",
+    "manufacturer": "Garmin",
+    "price": 90,
+    "carbon_footprint": 16.30893,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Huawei Watch Kids 4 Pro",
+    "manufacturer": "Huawei",
+    "price": 154,
+    "carbon_footprint": 11.242,
+    "methodology": "supplier"
+  },
+  {
+    "name": "TickTalk 4 ",
+    "manufacturer": "TickTalk Tech LLC",
+    "price": 190,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Spacetalk Adventurer",
+    "manufacturer": "Spacetalk",
+    "price": 180,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Verizon GizmoWatch",
+    "manufacturer": "Verizon",
+    "price": 100,
+    "carbon_footprint": 47.203,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Amazon Echo Dot Kids Edition",
+    "manufacturer": "Amazon",
+    "price": 60,
+    "carbon_footprint": 6.0573,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Amazon Echo Show Kids Edition",
+    "manufacturer": "Amazon",
+    "price": 95,
+    "carbon_footprint": 9.59042,
+    "methodology": "supplier"
+  },
+  {
+    "name": "iRobot Root",
+    "manufacturer": "iRobot",
+    "price": 130,
+    "carbon_footprint": 33.56184,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Artie 3000",
+    "manufacturer": "Artie",
+    "price": 130,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Sphero BOLT Coding Robot",
+    "manufacturer": "Sphero",
+    "price": 180,
+    "carbon_footprint": 46.46928,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Ubtech Jimu Robot Kits",
+    "manufacturer": "Ubtech",
+    "price": 70,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Osmo Genius",
+    "manufacturer": "Osmo",
+    "price": 100,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Merge Cube",
+    "manufacturer": "Merge",
+    "price": 30,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "DJI Mavic Series",
+    "manufacturer": "DJI",
+    "price": 600,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Parrot Anafi",
+    "manufacturer": "Parrot",
+    "price": 7000,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Ryze Tello",
+    "manufacturer": "Ryze Robotics",
+    "price": 150,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "EMAX Tinyhawk",
+    "manufacturer": "EMAX",
+    "price": 170,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "RUKO Drones",
+    "manufacturer": "RUKO",
+    "price": 580,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Holy Stone Drones",
+    "manufacturer": "Holy Stone",
+    "price": 80,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Evo Lite Series Drones",
+    "manufacturer": "Autel",
+    "price": 1550,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Fi Series 2 ",
+    "manufacturer": "Barking Labs",
+    "price": 336,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Fitbark GPS",
+    "manufacturer": "FItbark",
+    "price": 100,
+    "carbon_footprint": 25.818,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Fitbark 2",
+    "manufacturer": "FItbark",
+    "price": 170,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Whistle GO Explore",
+    "manufacturer": "Mars",
+    "price": 120,
+    "carbon_footprint": 34.15576,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Whistle Switch",
+    "manufacturer": "Mars",
+    "price": 160,
+    "carbon_footprint": 45.54216,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Findster Duo",
+    "manufacturer": "Findster Technologies",
+    "price": 150,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Invoxia Smart Dog Collar",
+    "manufacturer": "Invoxia",
+    "price": 130,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Furbo Dog Cam w/Nanny",
+    "manufacturer": "Tomofun Co. Ltd",
+    "price": 210,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Petcube Play 2",
+    "manufacturer": "Petcube",
+    "price": 230,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Petcube Bites 2",
+    "manufacturer": "Petcube",
+    "price": 200,
+    "carbon_footprint": 51.63288,
+    "methodology": "supplier"
+  },
+  {
+    "name": "Petchatz HDX",
+    "manufacturer": "Petchatz",
+    "price": 350,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "PetSafe Smart Feeder",
+    "manufacturer": "Radio Systems Corporation",
+    "price": 130,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  },
+  {
+    "name": "Litter Robot 3 Connect",
+    "manufacturer": "Whisker",
+    "price": 550,
+    "carbon_footprint": "unknown",
+    "methodology": "unknown"
+  }
+]

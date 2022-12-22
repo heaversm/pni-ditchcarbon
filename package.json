@@ -1,0 +1,16 @@
+{
+  "name": "ditch-carbon-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Heavers",
+  "license": "ISC",
+  "dependencies": {
+    "api": "^5.0.5",
+    "axios": "^1.2.1",
+    "express": "^4.18.2"
+  }
+}

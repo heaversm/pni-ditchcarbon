@@ -1,0 +1,451 @@
+[
+  { "name": "Amazon Echo Dot", "manufacturer": "Amazon", "price": 49 },
+  { "name": "Amazon Echo Studio", "manufacturer": "Amazon", "price": 199 },
+  { "name": "Amazon Halo Rise", "manufacturer": "Amazon", "price": 139 },
+  { "name": "Google Nest Mini", "manufacturer": "Google", "price": 49 },
+  { "name": "Google Nest Audio", "manufacturer": "Google", "price": 99 },
+  { "name": "Apple Homepod Mini", "manufacturer": "Apple", "price": 99 },
+  { "name": " Sonos Smart Speakers", "manufacturer": "Sonos", "price": 179 },
+  { "name": "Sonos SL Speakers", "manufacturer": "Sonos", "price": 199 },
+  { "name": "Bose Home Speaker", "manufacturer": "Bose", "price": 379 },
+  { "name": "Amazon Echo Show Family", "manufacturer": "Amazon", "price": 280 },
+  { "name": "Google Nest Hub", "manufacturer": "Google", "price": 100 },
+  { "name": "Google Nest Hub Max", "manufacturer": "Google", "price": 229 },
+  { "name": "Meta Portal", "manufacturer": "Meta", "price": 49 },
+  { "name": "Lenovo Smart Display", "manufacturer": "Lenovo", "price": 100 },
+  {
+    "name": "Lenovo Smart Clock with Alexa",
+    "manufacturer": "Lenovo",
+    "price": 100
+  },
+  {
+    "name": "Amazon Ring Security Cams",
+    "manufacturer": "Amazon",
+    "price": 100
+  },
+  {
+    "name": "Amazon Ring Always Home Cam",
+    "manufacturer": "Amazon",
+    "price": 200
+  },
+  { "name": "Amazon Astro Robot", "manufacturer": "Amazon", "price": 1000 },
+  { "name": "Blink Security Cameras", "manufacturer": "Blink", "price": 50 },
+  { "name": "Google Nest Cams", "manufacturer": "Google", "price": 180 },
+  { "name": "Arlo Security Cams", "manufacturer": "Arlo", "price": 299 },
+  {
+    "name": "Eufy Security Cams",
+    "manufacturer": "Anker Innovations Technology",
+    "price": 309
+  },
+  {
+    "name": "Simplisafe Security Cams",
+    "manufacturer": "Simplisafe",
+    "price": 99
+  },
+  { "name": "Wyze Cams", "manufacturer": "Wyze Labs", "price": 30 },
+  {
+    "name": "Netatmo Smart Indoor Camera",
+    "manufacturer": "Netatmo",
+    "price": 200
+  },
+  { "name": "Logitech Circle View", "manufacturer": "Logitech", "price": 160 },
+  {
+    "name": "Amazon Ring Video Doorbell",
+    "manufacturer": "Amazon",
+    "price": 65
+  },
+  { "name": "Blink Video Doorbell", "manufacturer": "Blink", "price": 50 },
+  {
+    "name": "Google Nest Video Doorbells",
+    "manufacturer": "Google",
+    "price": 180
+  },
+  { "name": "Arlo Video Doorbells", "manufacturer": "Arlo", "price": 150 },
+  {
+    "name": "Eufy Video Doorbell",
+    "manufacturer": "Anker Innovations Technology",
+    "price": 200
+  },
+  { "name": "Wyze Video Doorbell", "manufacturer": "Wyze Labs", "price": 44 },
+  {
+    "name": "Simplisafe Video Doorbell Pro",
+    "manufacturer": "Simplisafe",
+    "price": 170
+  },
+  {
+    "name": "Netatmo Smart Video Doorbell",
+    "manufacturer": "Netatmo",
+    "price": 300
+  },
+  {
+    "name": "Logitech Circle Video Doorbell",
+    "manufacturer": "Logitech",
+    "price": 100
+  },
+  { "name": "Ezviz Video Doorbell ", "manufacturer": "EzViz", "price": 40 },
+  { "name": "August Smart Locks", "manufacturer": "August", "price": 200 },
+  {
+    "name": "Eufy Smart Lock Touch",
+    "manufacturer": "Anker Innovations Technology",
+    "price": 170
+  },
+  {
+    "name": "Eufy Smart Lock Touch & Wi-Fi",
+    "manufacturer": "Anker Innovations Technology",
+    "price": 260
+  },
+  {
+    "name": "Eufy Video Smart Lock",
+    "manufacturer": "Anker Innovations Technology",
+    "price": 300
+  },
+  { "name": "Nest X Yale Lock", "manufacturer": "Google", "price": 250 },
+  { "name": "Schlage Smart Locks", "manufacturer": "Schlage", "price": 403 },
+  { "name": "Wyze Lock", "manufacturer": "Wyze", "price": 124 },
+  {
+    "name": "Kwikset Halo Touch WiFi Smart Lock",
+    "manufacturer": "Kwikset",
+    "price": 170
+  },
+  {
+    "name": "Kwikset Aura Bluetooth Smart Lock",
+    "manufacturer": "Kwikset",
+    "price": 149
+  },
+  { "name": "MyQ Garage", "manufacturer": "Chamberlain Group", "price": 420 },
+  {
+    "name": "Ecobee Smart Thermostat Premium",
+    "manufacturer": "Ecobee",
+    "price": 250
+  },
+  {
+    "name": "Ecobee SmartThermostat Enhanced",
+    "manufacturer": "Ecobee",
+    "price": 190
+  },
+  { "name": "Ecobee3 Lite", "manufacturer": "Ecobee", "price": 150 },
+  {
+    "name": "Google Nest Learning Thermostat ",
+    "manufacturer": "Google",
+    "price": 200
+  },
+  { "name": "Amazon Smart Thermostat", "manufacturer": "Amazon", "price": 80 },
+  {
+    "name": "Netatmo Smart Thermostat",
+    "manufacturer": "Netatmo",
+    "price": 170
+  },
+  {
+    "name": "Honeywell WiFi Smart Thermostats",
+    "manufacturer": "Honeywell",
+    "price": 100
+  },
+  { "name": "Google Nest Protect", "manufacturer": "Google", "price": 120 },
+  { "name": "U by Moen Smart Shower", "manufacturer": "Moen", "price": 372 },
+  { "name": "Moen Smart Faucet", "manufacturer": "Moen", "price": 947 },
+  { "name": "Kohler Smart Toilet", "manufacturer": "Kohler", "price": 8625 },
+  {
+    "name": "Kohler Stillness Smart Bathtub",
+    "manufacturer": "Kohler",
+    "price": 16000
+  },
+  {
+    "name": "Kohler DTV Smart Showering System",
+    "manufacturer": "Kohler",
+    "price": 383
+  },
+  { "name": "Philips Hue", "manufacturer": "Philps", "price": 35 },
+  { "name": "Wyze Smart Bulb", "manufacturer": "Wyze Labs", "price": 23 },
+  { "name": "Ring Smart Lighting", "manufacturer": "Ring LLC", "price": 30 },
+  { "name": "Wemo Thread Smart Plug", "manufacturer": "Belkin", "price": 30 },
+  {
+    "name": "Ring Outdoor Smart Plug",
+    "manufacturer": "Ring LLC",
+    "price": 30
+  },
+  { "name": "Amazon Smart Plug", "manufacturer": "Amazon", "price": 25 },
+  { "name": "Wyze Plug", "manufacturer": "Wyze Labs", "price": 14 },
+  { "name": "iRobot Roombas", "manufacturer": "iRobot", "price": 1000 },
+  {
+    "name": "Eufy RoboVacs",
+    "manufacturer": "Anker Innovations Technology",
+    "price": 550
+  },
+  { "name": "Ecovacs Deebot", "manufacturer": "Ecovacs", "price": 1550 },
+  { "name": "Wyze Robot Vacuum", "manufacturer": "Wyze", "price": 315 },
+  { "name": "Dyson 360 Heurist", "manufacturer": "Dyson", "price": 1100 },
+  { "name": "Shark Robot Vacuums", "manufacturer": "Shark", "price": 700 },
+  { "name": "BISSELL's Robot Vacuum", "manufacturer": "BISSELL", "price": 600 },
+  {
+    "name": "Roborock Robot Vacuums",
+    "manufacturer": "Roborock",
+    "price": 1400
+  },
+  {
+    "name": "Neato Robot Vacuums",
+    "manufacturer": "Neato Robotics",
+    "price": 600
+  },
+  {
+    "name": "Samsung JetBot Robot Vacuums",
+    "manufacturer": "Samsung",
+    "price": 1300
+  },
+  { "name": "Nintendo Switch", "manufacturer": "Nintendo", "price": 350 },
+  { "name": "Playstation 5", "manufacturer": "Sony", "price": 599 },
+  { "name": "XBox Series X & S", "manufacturer": "Microsoft", "price": 300 },
+  { "name": "Steam Deck", "manufacturer": "Valve", "price": 510 },
+  {
+    "name": "Amazon Fire TV with Alexa Voice Remote",
+    "manufacturer": "Amazon",
+    "price": 30
+  },
+  { "name": "Amazon Voice Remotes", "manufacturer": "Amazon", "price": 35 },
+  { "name": "Apple TV 4K", "manufacturer": "Apple", "price": 129 },
+  {
+    "name": "Google Chromecast w/Google TV",
+    "manufacturer": "Google",
+    "price": 30
+  },
+  { "name": "Nvidia Shield TV", "manufacturer": "Nvidia", "price": 125 },
+  { "name": "Roku Streaming Sticks", "manufacturer": "Roku", "price": 35 },
+  { "name": "Tivo Streaming Devices", "manufacturer": "Tivo", "price": 40 },
+  { "name": "Xfinity Flex", "manufacturer": "Comcast", "price": 45 },
+  { "name": "Amazon Kindle", "manufacturer": "Amazon", "price": 110 },
+  { "name": "Kobo eReaders", "manufacturer": "Kobo", "price": 400 },
+  {
+    "name": "Onyx Boox",
+    "manufacturer": "Onyx International Inc.",
+    "price": 500
+  },
+  { "name": "Pocketbook", "manufacturer": "Pocketbook", "price": 267 },
+  { "name": "Nook", "manufacturer": "Barnes & Noble", "price": 120 },
+  { "name": "Apple iPad", "manufacturer": "Apple", "price": 449 },
+  { "name": "Amazon Fire HD Tablets", "manufacturer": "Amazon", "price": 99 },
+  {
+    "name": "Samsung Galaxy Tablets",
+    "manufacturer": "Samsung",
+    "price": 1100
+  },
+  { "name": "Lenovo Tablets", "manufacturer": "Lenovo", "price": 300 },
+  { "name": "Huawei MatePad Tablets", "manufacturer": "Huawei", "price": 150 },
+  { "name": "Apple Watch", "manufacturer": "Apple", "price": 380 },
+  { "name": "Fitbit Charge 5", "manufacturer": "Google", "price": 150 },
+  { "name": "Fitbit Luxe", "manufacturer": "Google", "price": 130 },
+  {
+    "name": "Fitbit Inspire 3 (new version)",
+    "manufacturer": "Google",
+    "price": 100
+  },
+  {
+    "name": "Fitbit Sense 2  (new version)",
+    "manufacturer": "Google",
+    "price": 200
+  },
+  {
+    "name": "Fitbit Versa 4  (new version)",
+    "manufacturer": "Google",
+    "price": 230
+  },
+  { "name": "Google Pixel Watch", "manufacturer": "Google", "price": 350 },
+  { "name": "Garmin Venu", "manufacturer": "Garmin", "price": 300 },
+  { "name": "Garmin Vivoactive ", "manufacturer": "Garmin", "price": 350 },
+  {
+    "name": "Garmin Forerunner Series",
+    "manufacturer": "Garmin",
+    "price": 400
+  },
+  { "name": "Garmin Instinct Series", "manufacturer": "Garmin", "price": 500 },
+  { "name": "Garmin Fenix", "manufacturer": "Garmin", "price": 700 },
+  { "name": "Garmin Epix", "manufacturer": "Garmin", "price": 900 },
+  { "name": "Wyze Band", "manufacturer": "Wyze", "price": 50 },
+  { "name": "Oura Ring", "manufacturer": "Oura", "price": 350 },
+  { "name": "Whoop Strap 4", "manufacturer": "Whoop", "price": 300 },
+  { "name": "Amazon Halo Band", "manufacturer": "Amazon", "price": 70 },
+  { "name": "Amazon Halo View", "manufacturer": "Amazon", "price": 80 },
+  { "name": "Amazfit Fitness Trackers", "manufacturer": "Huami", "price": 40 },
+  { "name": "Mi Band 6", "manufacturer": "Xiaomi", "price": 300 },
+  { "name": "Samsung Galaxy Watch4", "manufacturer": "Samsung", "price": 360 },
+  { "name": "Huawei Band 6", "manufacturer": "Huawei", "price": 60 },
+  { "name": "Huawei Watch", "manufacturer": "Huawei", "price": 500 },
+  { "name": "Meta Quest 2", "manufacturer": "Meta", "price": 400 },
+  { "name": "Meta Quest Pro", "manufacturer": "Meta", "price": 1500 },
+  {
+    "name": "Ray-Ban Facebook Stories",
+    "manufacturer": "Ray-Ban",
+    "price": 300
+  },
+  { "name": "Amazon Echo Frames", "manufacturer": "Amazon", "price": 250 },
+  { "name": "Snap Spectacles 4.0", "manufacturer": "Snap", "price": 380 },
+  { "name": "Apple Air Pods", "manufacturer": "Apple", "price": 250 },
+  { "name": "Bose 700 Headphones", "manufacturer": "Bose", "price": 380 },
+  { "name": "Bose QuietComfort Earbuds", "manufacturer": "Bose", "price": 200 },
+  { "name": "Bose Sport Earbuds", "manufacturer": "Bose", "price": 130 },
+  { "name": "Sony WF-1000XM4", "manufacturer": "Sony", "price": 180 },
+  { "name": "Sony WH-1000XM4", "manufacturer": "Sony", "price": 350 },
+  { "name": "Amazfit Powerbuds Pro", "manufacturer": "Huami", "price": 200 },
+  {
+    "name": "Sennheiser Momentum Wireless",
+    "manufacturer": "Sennheiser",
+    "price": 200
+  },
+  {
+    "name": "Sennheiser Momentum True Wireless 2",
+    "manufacturer": "Sennheiser",
+    "price": 200
+  },
+  { "name": "Jabra Elite Earbuds", "manufacturer": "Jabra", "price": 150 },
+  {
+    "name": "Jabra Elite 85h Headphones",
+    "manufacturer": "Jabra",
+    "price": 200
+  },
+  { "name": "Samsung Galaxy Buds", "manufacturer": "Samsung", "price": 90 },
+  { "name": "Google Pixel Buds ", "manufacturer": "Google", "price": 70 },
+  { "name": "Amazon Echo Buds", "manufacturer": "Amazon", "price": 120 },
+  {
+    "name": "Microsoft Surface Headphones 2",
+    "manufacturer": "Microsoft",
+    "price": 250
+  },
+  {
+    "name": "Microsoft Surface Earbuds",
+    "manufacturer": "Microsoft",
+    "price": 160
+  },
+  { "name": "Huawei FreeBuds Pro", "manufacturer": "Huawei", "price": 240 },
+  { "name": "Apple Airtag", "manufacturer": "Apple", "price": 30 },
+  { "name": "Tile Trackers", "manufacturer": "Tile", "price": 25 },
+  { "name": "Samsung Galaxy SmartTag", "manufacturer": "Samsung", "price": 30 },
+  { "name": "Chipolo ONE", "manufacturer": "Chipolo", "price": 25 },
+  { "name": "Orbit Trackers", "manufacturer": "Orbit", "price": 35 },
+  { "name": "Cube Shadow", "manufacturer": "Cube", "price": 40 },
+  { "name": "Innway Card", "manufacturer": "Innway", "price": 43 },
+  { "name": "Nutale Nut3", "manufacturer": "Nutale", "price": 30 },
+  { "name": "Aventon eBikes", "manufacturer": "Aventon", "price": 2000 },
+  { "name": "VanMoof eBikes", "manufacturer": "VanMoof", "price": 3500 },
+  {
+    "name": "Rad Power eBikes",
+    "manufacturer": "Rad Power Bikes Inc",
+    "price": 1700
+  },
+  {
+    "name": "Lectric eBikes ",
+    "manufacturer": "Lectric eBikes",
+    "price": 1100
+  },
+  { "name": "GoCycle eBikes", "manufacturer": "Gocycle", "price": 4000 },
+  {
+    "name": "Woom Up eBikes",
+    "manufacturer": "Woom Bikes USA LLC",
+    "price": 3750
+  },
+  { "name": "Peloton Bike", "manufacturer": "Peloton", "price": 2500 },
+  { "name": "Peloton Tread", "manufacturer": "Peloton", "price": 3500 },
+  { "name": "Mirror", "manufacturer": "Curiouser Products Inc", "price": 1500 },
+  { "name": "Echelon Reflect", "manufacturer": "Echelon", "price": 450 },
+  {
+    "name": "Fiture Interactive Smart Fitness Mirror",
+    "manufacturer": "Fiture Holding LLC",
+    "price": 1500
+  },
+  { "name": "FORME Studio", "manufacturer": "FORME Life", "price": 2500 },
+  { "name": "FightCamp", "manufacturer": "Hykso", "price": 440 },
+  { "name": "NordicTrack Treadmill", "manufacturer": "Icon", "price": 3000 },
+  { "name": "NordicTrack Rower", "manufacturer": "Icon", "price": 2000 },
+  { "name": "Tonal", "manufacturer": "Tonal Systems", "price": 3500 },
+  {
+    "name": "SoulCycle At-Home Bike",
+    "manufacturer": "Equinox Group",
+    "price": 2500
+  },
+  { "name": "Kinsa Smart Thermometers", "manufacturer": "Kinsa", "price": 40 },
+  { "name": "Withings Thermo", "manufacturer": "Withings", "price": 100 },
+  {
+    "name": "Withings Body Smart Scales",
+    "manufacturer": "Withings",
+    "price": 210
+  },
+  {
+    "name": "Garmin Index Smart Scale",
+    "manufacturer": "Garmin",
+    "price": 150
+  },
+  { "name": "Fitbit Aria Air", "manufacturer": "Fitbit", "price": 50 },
+  {
+    "name": "Eufy Smart Scales",
+    "manufacturer": "Anker Innovations Technology",
+    "price": 80
+  },
+  {
+    "name": "Greater Goods Premium WiFi Smart Scale",
+    "manufacturer": "Greater Goods",
+    "price": 50
+  },
+  { "name": "Wyze Scale", "manufacturer": "Wyze", "price": 24 },
+  { "name": "Amazon Fire HD Kids", "manufacturer": "Amazon", "price": 200 },
+  { "name": "Amazon Fire HD Kids Pro", "manufacturer": "Amazon", "price": 200 },
+  { "name": "Amazon Kindle for Kids", "manufacturer": "Amazon", "price": 120 },
+  { "name": "Fitbit Ace 3", "manufacturer": "Google", "price": 80 },
+  { "name": "Garmin Vivofit Jr 3", "manufacturer": "Garmin", "price": 90 },
+  { "name": "Huawei Watch Kids 4 Pro", "manufacturer": "Huawei", "price": 154 },
+  { "name": "TickTalk 4 ", "manufacturer": "TickTalk Tech LLC", "price": 190 },
+  { "name": "Spacetalk Adventurer", "manufacturer": "Spacetalk", "price": 180 },
+  { "name": "Verizon GizmoWatch", "manufacturer": "Verizon", "price": 100 },
+  {
+    "name": "Amazon Echo Dot Kids Edition",
+    "manufacturer": "Amazon",
+    "price": 60
+  },
+  {
+    "name": "Amazon Echo Show Kids Edition",
+    "manufacturer": "Amazon",
+    "price": 95
+  },
+  { "name": "iRobot Root", "manufacturer": "iRobot", "price": 130 },
+  { "name": "Artie 3000", "manufacturer": "Artie", "price": 130 },
+  {
+    "name": "Sphero BOLT Coding Robot",
+    "manufacturer": "Sphero",
+    "price": 180
+  },
+  { "name": "Ubtech Jimu Robot Kits", "manufacturer": "Ubtech", "price": 70 },
+  { "name": "Osmo Genius", "manufacturer": "Osmo", "price": 100 },
+  { "name": "Merge Cube", "manufacturer": "Merge", "price": 30 },
+  { "name": "DJI Mavic Series", "manufacturer": "DJI", "price": 600 },
+  { "name": "Parrot Anafi", "manufacturer": "Parrot", "price": 7000 },
+  { "name": "Ryze Tello", "manufacturer": "Ryze Robotics", "price": 150 },
+  { "name": "EMAX Tinyhawk", "manufacturer": "EMAX", "price": 170 },
+  { "name": "RUKO Drones", "manufacturer": "RUKO", "price": 580 },
+  { "name": "Holy Stone Drones", "manufacturer": "Holy Stone", "price": 80 },
+  { "name": "Evo Lite Series Drones", "manufacturer": "Autel", "price": 1550 },
+  { "name": "Fi Series 2 ", "manufacturer": "Barking Labs", "price": 336 },
+  { "name": "Fitbark GPS", "manufacturer": "FItbark", "price": 100 },
+  { "name": "Fitbark 2", "manufacturer": "FItbark", "price": 170 },
+  { "name": "Whistle GO Explore", "manufacturer": "Mars", "price": 120 },
+  { "name": "Whistle Switch", "manufacturer": "Mars", "price": 160 },
+  {
+    "name": "Findster Duo",
+    "manufacturer": "Findster Technologies",
+    "price": 150
+  },
+  {
+    "name": "Invoxia Smart Dog Collar",
+    "manufacturer": "Invoxia",
+    "price": 130
+  },
+  {
+    "name": "Furbo Dog Cam w/Nanny",
+    "manufacturer": "Tomofun Co. Ltd",
+    "price": 210
+  },
+  { "name": "Petcube Play 2", "manufacturer": "Petcube", "price": 230 },
+  { "name": "Petcube Bites 2", "manufacturer": "Petcube", "price": 200 },
+  { "name": "Petchatz HDX", "manufacturer": "Petchatz", "price": 350 },
+  {
+    "name": "PetSafe Smart Feeder",
+    "manufacturer": "Radio Systems Corporation",
+    "price": 130
+  },
+  { "name": "Litter Robot 3 Connect", "manufacturer": "Whisker", "price": 550 }
+]
